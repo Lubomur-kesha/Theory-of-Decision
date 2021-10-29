@@ -1,0 +1,6 @@
+22 A B C
+14 A C B
+18 B A C
+11 B C A
+23 C A B
+ 9 C B A
